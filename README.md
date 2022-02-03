@@ -11,13 +11,13 @@ SPENSER_notebook_1:
 
 
 SPENSER_notebook_2:
--	Calculates the following columns:
--- Total people in household: count the number of persons in each household
--- Total children in household: count the number of children in each household
--- Same ethnic: check if there are people with the same ethnicity
--- Adult similar age: check if there are people within +- 10 years
--- Children_dependency: Boolean value that tells if a person has a children dependency
--- Marital_status: classifies each individual in married, couple or single based on their socio-demographic characteristics
+- Calculates the following columns:
+	- Total people in household: count the number of persons in each household
+	- Total children in household: count the number of children in each household
+	- Same ethnic: check if there are people with the same ethnicity
+	- Adult similar age: check if there are people within +- 10 years
+	- Children_dependency: Boolean value that tells if a person has a children dependency
+	- Marital_status: classifies each individual in married, couple or single based on their socio-demographic characteristics
 
 
 SPENSER_notebook_3:
