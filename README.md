@@ -25,12 +25,31 @@ SPENSER_notebook_3:
 
 
 SPENSER_notebook_4:
-- Calculates the column: Economic activity (Employed, Unemployed, Inactive) based on age, gender and OA area. Census 2011 data is projected to 2019 using Regional labour market statistics: HI01 Headline indicators for the North East 
+- Calculates the attribute: Economic activity (Employed, Unemployed, Inactive) based on age, gender and OA area. Census 2011 data is projected to 2019 using Regional labour market statistics: HI01 Headline indicators for the North East 
 
 
 SPENSER_notebook_5:
-- Calculates the column: Occupation for employed and unemployed people only. This column classifies these people in 9 categories
+- Calculates the attribute: Occupation for employed and unemployed people only. This column classifies these people in 9 categories
 
+
+SPENSER_notebook_6:
+- Calculates the attribute: Occupation for inactive people only. This column classifies these people in 5 categories: student, looking after family or home, sick, retired and other
+
+
+SPENSER_notebook_7:
+- Calculates the attribute: Income for employed and unemployed people, based on their sex, age and occupation type 
+
+
+SPENSER_notebook_8:
+- Swap income values for employed and unemployed people. This is required because it was observed (outputs from SPENSER_notebook_7) that in general, people aged between 40-49 were earning more than expected, while people between 18-21, 22-29, 30-39, 50-59 and 60+ were earning less than expected
+
+
+SPENSER_notebook_9:
+- Calculates the attribute: Bike access based on data from National Travel Survey.
+
+
+SPENSER_notebook_10:
+- Calculates the attribute: Car access.
 
 
 Additionally, there is a word file documenting each of the notebooks (e.g., what it does, dependencies and explanation of the main cells).
