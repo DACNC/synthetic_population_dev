@@ -52,4 +52,9 @@ SPENSER_notebook_10:
 - Calculates the attribute: Car access.
 
 
+#### Interconnectons between the notebooks: 
+![alt text](https://github.com/DACNC/synthetic_population_dev/issues/1#issue-1177307267)
+
+
+
 Additionally, there is a word file documenting each of the notebooks (e.g., what it does, dependencies and explanation of the main cells).
