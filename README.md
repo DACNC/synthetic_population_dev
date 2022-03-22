@@ -53,7 +53,7 @@ SPENSER_notebook_10:
 
 
 #### Interconnectons between the notebooks: 
-![alt text](https://github.com/DACNC/synthetic_population_dev/issues/1#issue-1177307267)
+![alt text](https://user-images.githubusercontent.com/57093439/159575966-64290426-9bb0-4d99-be00-28ea9af94c1b.PNG)
 
 
 
