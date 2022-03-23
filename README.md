@@ -52,8 +52,18 @@ SPENSER_notebook_10:
 - Calculates the attribute: Car access.
 
 
+SPENSER_notebook_11:
+- Calculates the column: Income, for inactive people (students, retired, sick, looking after home or family, others)
+
+
+SPENSER_notebook_12:
+- Merges previous generated outputs in one single dataframe
+
+
 #### Interconnectons between the notebooks: 
 ![alt text](https://user-images.githubusercontent.com/57093439/159575966-64290426-9bb0-4d99-be00-28ea9af94c1b.PNG)
+
+
 
 
 
